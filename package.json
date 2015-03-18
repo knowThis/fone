@@ -1,0 +1,31 @@
+{
+  "name": "fone",
+  "version": "0.0.3",
+  "description": "1号店移动事业部前端构建工具",
+  "main": "index.js",
+  "bin": "./bin/fone",
+  "scripts": {
+    "test": "fone test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TVVT/fone.git"
+  },
+  "keywords": [
+    "yhd",
+    "fone",
+    "构建",
+    "发布"
+  ],
+  "author": "kevin14",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TVVT/fone/issues"
+  },
+  "homepage": "https://github.com/TVVT/fone",
+  "dependencies": {
+    "async": "^0.9.0",
+    "minimist": "^1.1.1",
+    "underscore": "^1.8.2"
+  }
+}
