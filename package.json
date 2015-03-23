@@ -1,6 +1,6 @@
 {
   "name": "fone",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "1号店移动事业部前端构建工具",
   "main": "index.js",
   "bin": "./bin/fone",
@@ -27,8 +27,10 @@
     "async": "^0.9.0",
     "colors": "^1.0.3",
     "finalhandler": "^0.3.4",
+    "map-stream": "0.0.5",
     "minimist": "^1.1.1",
     "serve-static": "^1.9.2",
-    "underscore": "^1.8.2"
+    "underscore": "^1.8.2",
+    "vinyl-fs": "^1.0.0"
   }
 }
