@@ -1,6 +1,6 @@
 {
   "name": "fone",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "1号店移动事业部前端构建工具",
   "main": "index.js",
   "bin": "./bin/fone",
