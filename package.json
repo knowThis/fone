@@ -1,28 +1,28 @@
 {
-  "name": "fone",
-  "version": "0.0.5",
-  "description": "1号店移动事业部前端构建工具",
+  "name": "fone-angular",
+  "version": "0.0.1",
+  "description": "angular 项目初始化",
   "main": "index.js",
-  "bin": "./bin/fone",
+  "bin": "./bin/fone-angular",
   "scripts": {
-    "test": "fone test"
+    "test": "fone-angular test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TVVT/fone.git"
+    "url": ""
   },
   "keywords": [
-    "yhd",
-    "fone",
+    "",
+    "fone-angular",
     "构建",
     "发布"
   ],
-  "author": "kevin14",
+  "author": "kevin14 and knowthis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TVVT/fone/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/TVVT/fone",
+  "homepage": "",
   "dependencies": {
     "async": "^0.9.0",
     "colors": "^1.0.3",

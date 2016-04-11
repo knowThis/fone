@@ -1,0 +1,32 @@
+{
+  "name": "layoutSystem-h5",
+  "authors": [
+    "knowthis <admin@zhouxianbao.cn>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "持续化集成系统"
+  ],
+  "license": "gpl v2",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "text": "requirejs-text#^2.0.14",
+    "angular": "^1.5.3",
+    "angular-bindonce": "^0.3.3",
+    "angular-ui-router": "ui-route#^0.2.18",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "oclazyload": "^1.0.9",
+    "requirejs": "^2.2.0"
+  }
+}
