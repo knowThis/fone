@@ -1,6 +1,6 @@
 {
   "name": "fone-angular",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "angular 项目初始化",
   "main": "index.js",
   "bin": "./bin/fone-angular",
